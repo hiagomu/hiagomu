@@ -3,8 +3,8 @@
 <p align="left"> 
   Olá, sou estudante de Engenharia da Computação e apaixonado pela área de
   desenvolvimento web e mobile. Este perfil tem como intuito compartilhar
-  projetos que eu desenvolvi e contribuir com a maior comunidade de Dev's
-  do mundo.
+  projetos que eu desenvolvi ao longo do tempo, e também contribuir com a 
+  maior comunidade de Dev's do mundo.
 </p>
 
 <p align="left">
