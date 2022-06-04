@@ -16,11 +16,6 @@
 </p>
 
 <p align="left">
-  💌 Se você quer conversar um pouco sobre tecnologia ou deseja desenvolver
-  um projeto comigo, não hesite de enviar uma mensagem. Links socias abaixo ⤵️
-</p>
-
-<p align="left">
   <a href="hiagomuuu@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
