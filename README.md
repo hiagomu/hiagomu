@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>JavaScript, React.js, HTML, CSS, Bootstrap e um poquinho de Python.</strong>
+  🦄 Habilidades: <strong>ReactJS, Typescript, Javascript, NodeJS, HTML5, CSS3, styled-components e um poquinho de Python! :)</strong>
 </p>
 
 <p align="left">
