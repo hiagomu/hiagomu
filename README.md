@@ -1,18 +1,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, sou estudante de Engenharia da Computação e apaixonado pela área de
-  desenvolvimento web e mobile. Este perfil tem como intuito compartilhar
-  projetos que eu desenvolvi ao longo do tempo, e também contribuir com a 
-  maior comunidade de Dev's do mundo.
+  Olá, sou estudante de Engenharia da Computação e desenvolvedor fulltack. Este
+  perfil tem como intuito compartilhar projetos que eu desenvolvi ao longo do 
+  tempo, e também contribuir com a maior comunidade de devs do mundo.
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>ReactJS, Typescript, Javascript, NodeJS, HTML5, CSS3, styled-components e um poquinho de Python! :)</strong>
+  💻 Habilidades: <strong>ReactJS, Typescript, Javascript, NodeJS, HTML5, CSS3, styled-components e um poquinho de Python! :)</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, Figma, Git, Github e Heroku</strong>
+  🛠️ Ferramentas: <strong>VSCode, Figma, Git, Github e Heroku</strong>
 </p>
 
 <p align="left">
