@@ -5,13 +5,7 @@
     <li>⚙️ <b>I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`</b></li>
     <li>🎓 <b>I’m currently studing Computer Engineering at CESUPA</b></li>
     <li>👨‍💻 <b>I’m currently working on a personal project, called</b> <a href="https://bookeep.io" target="blank">BooKeep</a></li>
-    <li>📄 <b>Know about my experiences on </b> <a href="https://hiagomurilo.com" target="blank">my Website</a></li>
 </ul>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagomu&langs_count=12&layout=compact&theme=radical" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hiagomu&show_icons=true&theme=radical" align="center">
-</div>
 
 <div>
     <h3 align="left">Connect with me:</h3>
@@ -19,7 +13,6 @@
         <a href="https://www.linkedin.com/in/hiago-murilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiago murilo" height="30" width="40" /></a>
         <a href="https://twitter.com/hiagomux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hiagomux" height="30" width="40" /></a>
         <a href="https://instagram.com/hmuurilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmuurilo" height="30" width="40" /></a>
-        <a href="https://hiagomurilo.com" target="blank"><img align="center" src="https://hiagomurilo.com/assets/logo.0298e051.png" alt="hmuurilo" height="30" width="40"/></a>
     </p>
 </div>
 
